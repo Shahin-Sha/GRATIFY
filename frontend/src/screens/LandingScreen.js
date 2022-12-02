@@ -10,6 +10,9 @@ const LandingScreen = ({ history }) => {
     const DashboardHandler = () => {
         history.push(`/dashboard`)
     }
+    const volHandler = () => {
+        history.push(`/volhome`)
+    }
     return (
         <>
             <LandingHeader />
@@ -42,6 +45,14 @@ const LandingScreen = ({ history }) => {
                             onClick={homeHandler}
                         >
                             Donate Now
+                        </Button>
+                        <Button
+                            className='btn4'
+                            type='submit'
+                            variant='outline-primary'
+                            onClick={volHandler}
+                        >
+                            Pick Up
                         </Button>
                     </div>
                 </div>

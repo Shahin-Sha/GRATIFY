@@ -16,6 +16,8 @@ import ContactScreen from './screens/ContactScreen'
 import MyDonationScreen from './screens/MyDonationScreen'
 import NgoMyDonationScreen from './screens/NgoMyDonationScreen'
 import LandingScreen from './screens/LandingScreen'
+import VolunteerScreen from './screens/VolunteerScreen'
+
 
 const App = () => {
     return (
@@ -42,6 +44,7 @@ const App = () => {
                         exact
                     />
                     <Route path='/home' component={HomeScreen} exact />
+                    <Route path='/volhome' component={VolunteerScreen} exact />
                     <Route path='/' component={LandingScreen} exact />
                     <Route
                         path='/request/:id/:requestId/:Qty'

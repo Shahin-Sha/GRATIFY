@@ -109,6 +109,7 @@ const RequestScreen = ({ history, match }) => {
                                         <Button
                                             onClick={handlerDonate}
                                             className='btn-block'
+                                            variant='outline-primary'
                                             type='button'
                                         >
                                             Donate

@@ -213,7 +213,7 @@ const NgoDashBoard = ({ history }) => {
                                 ></Form.Control>
                             </Form.Group>
 
-                            <Button type='submit' variant='primary'>
+                            <Button className='btn3' type='submit' variant='outline-primary'>
                                 Update
                             </Button>
                         </Form>

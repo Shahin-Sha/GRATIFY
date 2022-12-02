@@ -3,6 +3,7 @@ import { useDispatch, useSelector } from 'react-redux'
 import { LinkContainer } from 'react-router-bootstrap'
 import { Navbar, Nav, Container, NavDropdown } from 'react-bootstrap'
 import { logout } from '../actions/userActions'
+import GratifyLogo from '../images/GratifyLogo.png'
 
 const Header = () => {
     const dispatch = useDispatch()
@@ -17,6 +18,7 @@ const Header = () => {
     return (
         <header>
             <Navbar bg='dark' variant='dark' expand='lg' collapseOnSelect>
+            <img className='GratifyLogo1' src={GratifyLogo} alt='image' />
                 <Container>
                     <LinkContainer to='/home'>
                         <Navbar.Brand>Gratify</Navbar.Brand>
