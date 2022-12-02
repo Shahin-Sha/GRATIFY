@@ -1,68 +1,30 @@
-# Food Sewa
+![image](./assets/banner.png)
 
-> Full Stack Website built with the MERN stack & Redux.
 
-Food Sewa is a web application serves as a dual platform for NGOs and volunteers to connect with one another. It aims to minimize food wastage by redistributing excess food.
+# {Project Name} - MAGNATHON
+Tell us about your project here
 
-live demo for the application <a href="https://food-sewa.herokuapp.com/">here</a>
+## Team Members
+[1.Team Member 1](enter_github_profile_url)   
+[2.Team Member 2](enter_github_profile_url)   
+[3.Team Member 3](enter_github_profile_url)   
+[4.Team Member 4](enter_github_profile_url)   
 
-## MOTIVATION
+## Link to Project
+[Embed the live link of project](live_link)
 
-As we know, our world is battling high food wastage, widespread hunger and extensive food insecurity. These are all problems that directly affect the basic quality of life. Moreover, higher food wastage also means that we would need to build more waste disposal facilities, which leads to an unnecessary increase energy consumption.
+## How it Works ?
+Explaining the working of project  
+Embed video of project demo
 
-However, by distributing these food leftovers to people who are unable to afford food on their own, we can alleviate their standard of living. So the value of this product is the possibility of solving all the mentioned problems, without even increasing the food output.
+## Technologies used
+List out tech stacks you have used
 
-## Screen Shots
+## How to configure
+Instructions for setting up project
 
-Landing Screen
+## How to Run
+Instructions for running
 
-![screenshot](https://github.com/Akshat-gour/Food-sewa/blob/master/uploads/landing.png?raw=true)
-
-Home Screen
-
-![screenshot](https://github.com/Akshat-gour/Food-sewa/blob/master/uploads/home.png?raw=true)
-
-Dashboard Screen
-
-![screenshot](https://github.com/Akshat-gour/Food-sewa/blob/master/uploads/dashboard.png?raw=true)
-
-### Key Users
-
--   NGOs
--   Food Donors
-
-### Features
-
--   User Authentication
--   Food Donor Features
-    -   See All Food Requests
-    -   User Profile
-    -   View Donations
-    -   Update User Profile
--   NGOs Features
-    -   User Profile
-    -   Create Food Request
-    -   Modify Food Request
-    -   View Donations Received
-    -   Update User Profile
-
-## Technologies Used
-
-### Frontend
-
--   [HTML](https://en.wikipedia.org/wiki/HTML)
--   [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
--   [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
--   [React](https://reactjs.org/)
--   [React Router](https://reacttraining.com/react-router/)
--   [Axios](https://github.com/axios/axios)
-
-### Backend
-
--   [NodeJS](https://nodejs.org/)
--   [ExpressJS](https://expressjs.com/)
--   [MongoDB](https://www.mongodb.com/)
-
-## Deploy
-
-website deployed at this <a href="https://food-sewa.herokuapp.com/">link</a>
+## Other Links
+Provide any other links ( for eg. Wireframe , UI )
