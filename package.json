@@ -1,5 +1,5 @@
 {
-    "name": "food_sewa",
+    "name": "gratify",
     "version": "1.0.0",
     "description": "A Food Donation Website",
     "main": "server.js",
@@ -13,7 +13,7 @@
         "data:destroy": "node backend/seeder -d",
         "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix frontend && npm run build --prefix frontend"
     },
-    "author": "Akshat",
+    "author": "EROR 404",
     "license": "",
     "dependencies": {
         "@emotion/react": "^11.9.3",
